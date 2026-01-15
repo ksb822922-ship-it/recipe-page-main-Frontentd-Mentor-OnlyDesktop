@@ -26,6 +26,11 @@ body {
 }
 
 
+h1{
+ font-family: 'YoungSerif-Regular', sans-serif;
+}
+
+
 h2
 {
     font-family: 'YoungSerif-Regular', sans-serif;
@@ -133,6 +138,7 @@ hr{
     border-bottom: 1px solid #bdbdbd;
 
 }
+
 
 
 
