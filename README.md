@@ -8,7 +8,7 @@ Thanks Frontend-Mentor
 
 
 <h1> Recipe-page-main</h1>
-<img src = "Screenshot 2026-01-15 at 18-25-35 recipe-page-main.png">
+<img src = "Readme_and_other/Screenshot 2026-01-15 at 18-25-35 recipe-page-main.png">
 
 Technologies
 <ul>
